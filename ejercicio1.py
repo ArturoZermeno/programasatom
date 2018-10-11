@@ -8,4 +8,4 @@ class Arturo:
 
 
 
-print (type('corre'))
+print (type('corre'))#jeje
